@@ -10,7 +10,7 @@ Supports [tdbc::postgres](https://www.tcl-lang.org/man/tcl9.0/TdbcpostgresCmd/td
 
 Follow the instructions for your database library:
 
-- [tdbc::postgres](#tdbc-postgres)
+- [tdbc::postgres](#tdbcpostgres)
 
 ## tdbc::postgres
 
